@@ -94,7 +94,6 @@ location not in (select distinct(continent) from PortfoliProject.dbo.CovidDeaths
 
 
 
-
 --INDIAN NUMBERS
 
 --Total cases 
@@ -185,12 +184,13 @@ where new_cases != 0 and continent is NULL and location not in ('World','High in
 group by location
 order by Maximum_cases DESC
 
+------------------------------------------------------------------------------------------------------------------------------------------
+--**************************************************************************************************************************************--
+-----------------------------------------------------------------------------------------------------------------------------------------
 
 
 
 --VACCINATION AND TEST NUMBERS 
-
-
 
 
 -- GLOBAL NUMBERS
