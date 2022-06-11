@@ -10,3 +10,7 @@ List of all Data analysis projects done for practice using SQL
 2. [**Data cleaning of Nashville Housing Data**](Protfoliproject2_NashvilleHouseData_DataCleaning.sql)
 
    In this project we do some basic cleaning of data like changing data types, identifying and removing duplicates etc. to make it ready for further analysis 
+   
+3. [**Forbes Richest Athletes**](https://github.com/Rakesh-Kashyap-git/SQLPortfolioProjects/blob/main/ForbesRichestAthletes.sql)
+
+   In this project we exlpore Forbes richest athletes data, Countries they belong, Earnings over years, Sport and country which has most atheletes appeared etcetera 
