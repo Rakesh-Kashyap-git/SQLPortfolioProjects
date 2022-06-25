@@ -14,3 +14,8 @@ List of all Data analysis projects done for practice using SQL
 3. [**Forbes Richest Athletes**](https://github.com/Rakesh-Kashyap-git/SQLPortfolioProjects/blob/main/ForbesRichestAthletes.sql)
 
    In this project we exlpore Forbes richest athletes data, Countries they belong, Earnings over years, Sport and country which has most atheletes appeared etcetera 
+   
+4. [**Olympic games Analysis(Athens 1896 to Rio 2016)**](https://github.com/Rakesh-Kashyap-git/SQLPortfolioProjects/blob/main/Kaggle_Olympics_Analysis.sql)
+   
+   In this project we ask and answer various questions related to Summer and winter olympics games held from back in 1896 till the one held in 2020
+   We also ask and answer questions related to performance and participation of indians in Olympics.
